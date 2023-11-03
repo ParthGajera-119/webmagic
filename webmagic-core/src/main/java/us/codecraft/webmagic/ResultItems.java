@@ -78,4 +78,7 @@ public class ResultItems {
                 ", skip=" + skip +
                 '}';
     }
+
+    public void set(String title, String sampleTitle) {
+    }
 }
